@@ -1,0 +1,7 @@
+title                   =Red October V
+author                  =Kesha
+description             =A futuristic RPG.
+quirks                  =0x0000002C
+keymap                  =0xa0bf789e456d123c
+palette                 =0xc80e
+instructions-per-frame  =1000

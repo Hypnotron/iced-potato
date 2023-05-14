@@ -1,0 +1,7 @@
+title                   =An Evening to Die For
+author                  =John Earnest
+description             =It is a dark and stormy night. A murder has been committed...
+quirks                  =0x0000002C
+keymap                  =0xa0bf789e456d123c
+palette                 =0x880e
+instructions-per-frame  =1000

@@ -1,0 +1,7 @@
+title                   =T8NKS
+author                  =your name here
+description             =Artillery game
+quirks                  =0x0000042c
+keymap                  =0xa0bf789e456d123c
+palette                 =0xe840
+instructions-per-frame  =1000

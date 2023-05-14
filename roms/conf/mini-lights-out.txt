@@ -1,0 +1,7 @@
+title                   =Mini Lights Out
+author                  =Tobias Langhoff
+description             =Mini Lights Out for CHIP-8
+quirks                  =0x00000029
+keymap                  =0xa0bf789e456d123c
+palette                 =0xccc0
+instructions-per-frame  =50

@@ -1,0 +1,7 @@
+title                   =Chicken Scratch
+author                  =John Earnest
+description             =Catch bugs!
+quirks                  =0x0000002C
+keymap                  =0xa0bf789e456d123c
+palette                 =0xc80e
+instructions-per-frame  =1000

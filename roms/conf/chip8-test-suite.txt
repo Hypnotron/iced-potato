@@ -1,0 +1,7 @@
+title                   =CHIP-8 Test Suite
+author                  =Timendus
+description             =IBM, opcodes, flags, quirks, keypad, and more!
+quirks                  =0x0000002C
+keymap                  =0xa0bf789e456d123c
+palette                 =0xeee0
+instructions-per-frame  =1000

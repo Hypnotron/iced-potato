@@ -1,0 +1,7 @@
+title                   =Chipcross
+author                  =buffi
+description             =16 levels of Picross implemented in CHIP-8. 800 bytes of fun.
+quirks                  =0x0000022a
+keymap                  =0xa0bf789e456d123c
+palette                 =0xeee0
+instructions-per-frame  =1000

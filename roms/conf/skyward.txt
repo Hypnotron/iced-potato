@@ -1,0 +1,7 @@
+title                   =Skyward
+author                  =tann,JackieKircher
+description             =Climb as high as you can!
+quirks                  =0x0000000c
+keymap                  =0xa0bf789e456d123c
+palette                 =0x88e0
+instructions-per-frame  =1000
